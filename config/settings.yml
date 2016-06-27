@@ -1,0 +1,6 @@
+# Discourse Mailing Lists
+
+plugins:
+  osf_mailingLists_active:
+    default: true
+    client: true
