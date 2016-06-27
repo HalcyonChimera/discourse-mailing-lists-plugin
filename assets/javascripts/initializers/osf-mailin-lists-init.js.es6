@@ -1,7 +1,7 @@
 
 
 export default {
-  name: "apply-osf",
+  name: "apply-osf-mailing-lists",
   initialize() {
     console.log('Mailing Lists Initialised')
   }
